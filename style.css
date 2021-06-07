@@ -1,0 +1,23 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    width: 100%;
+    margin-top: 0px;
+}
+
+canvas{
+    border: 2px solid;
+    border-color:white;
+    box-shadow:3px -5px 33px 12px cyan
+}
+
+#copy_footer{
+    bottom: 0;
+    margin-bottom: 0;
+    position: fixed;
+    width: 100%;
+    background-color: gray;
+    color: white;
+}
